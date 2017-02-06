@@ -1,0 +1,6 @@
+framework module Pods_Particle_TutorialUITests {
+  umbrella header "Pods-Particle-TutorialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
